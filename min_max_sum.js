@@ -1,3 +1,4 @@
+// Javascript program to count pairs whose sum divisible by 'K'
 
 // define a function min_max_sum
 function minMaxSum(array) {
