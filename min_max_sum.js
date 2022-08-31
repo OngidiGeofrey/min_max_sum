@@ -10,7 +10,7 @@ function minMaxSum(array) {
 //iterate through each element of the array from index 1 to index array.length-1
     for (let i = 1; i < array.length; i++) {
 
-        // find new value of sum by add element at index array[i] to sum
+        // find new value of sum by adding element at index array[i] to sum
         sum += array[i];
 
         /*Test if minimum_value is greater than element at index array[i], 
